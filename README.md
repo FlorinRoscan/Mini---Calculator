@@ -1,5 +1,5 @@
 # Mini-Calculator
-Mini-Calculator Java
+Mini-Calculator
 This is a simple command-line based calculator program written in Java.
 Features
 Supports basic arithmetic operations such as addition, subtraction, multiplication, and division
