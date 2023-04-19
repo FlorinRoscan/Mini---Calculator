@@ -20,4 +20,4 @@ java Calculator
 + 
 3
 The program will output the result of the calculation.
-Follow the prompts to perform additional calculations.
+Follow the prompts to perform additional calculations!
